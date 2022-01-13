@@ -1,4 +1,4 @@
-Hi there :wave:. Welcome to my github profile! :door:
+## Hi there :wave:. Welcome to my github profile! :door:
 
 <h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitings count</h4>
